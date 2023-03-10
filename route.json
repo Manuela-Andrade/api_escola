@@ -1,0 +1,16 @@
+{
+    "/alunos/list": "/alunos/",
+    "/alunos/create": "/alunos/",
+    "/clientes/update/:id": "/alunos/:id",
+    "/clientes/delete/:id": "/alunos/:id",
+
+    "/professores/list": "/professores/",
+    "/professores/create": "/professores/",
+    "/professores/update/:id": "/professores/:id",
+    "/professores/delete/:id": "/professores/:id",
+
+    "/turmas/list": "/turmas/",
+    "/turmas/create": "/turmas/",
+    "/turmas/update/:id": "/turmas/:id",
+    "/turmas/delete/:id": "/turmas/:id"
+}
